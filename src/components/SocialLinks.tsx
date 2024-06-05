@@ -1,4 +1,4 @@
-import { FaDiscord, FaGithub, FaInstagram, FaLinkedin } from "react-icons/fa";
+import { FaDiscord, FaGithub, FaInstagram,  } from "react-icons/fa";
 import { motion } from "framer-motion";
 
 interface SocialLinksProps {
@@ -59,7 +59,7 @@ const SocialLinks = (props: SocialLinksProps) => {
       >
         <FaLinkedin />
       </motion.a>*/}
-      
+
     </div>
   );
 };
