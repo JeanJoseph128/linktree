@@ -46,7 +46,8 @@ const SocialLinks = (props: SocialLinksProps) => {
       >
         <FaDiscord />
       </motion.a>
-      <motion.a
+
+      {/*<motion.a
         animate={{ opacity: 1 }}
         initial={{
           opacity: 0,
@@ -57,7 +58,8 @@ const SocialLinks = (props: SocialLinksProps) => {
         className=" text-2xl"
       >
         <FaLinkedin />
-      </motion.a>
+      </motion.a>*/}
+      
     </div>
   );
 };
