@@ -1,0 +1,29 @@
+{
+    "username": "Jenas",
+    "isLanyard": true,
+    "discordUserId": "412988526431305739",
+    "avatarImg": "https://cdn.discordapp.com/attachments/824003982519173220/1248014854179262484/Captura_de_tela_2024-04-26_191033.png?ex=66621fe8&is=6660ce68&hm=17107a67c0c385504ba3573c47bccf321302dd4163e1bb679fa7969596ec6b05&",
+    "buttons": [
+        {
+            "title": "My Pokemon Game",
+            "link": "https://pokedoro-next.vercel.app/"
+        },
+        {
+            "title": "My Projects",
+            "link": "https://uprojects.vercel.app/"
+        },
+        {
+            "title": "Github",
+            "link": "https://github.com/gustafer"
+        },
+        {
+            "title": "See this projects code",
+            "link": "https://github.com/gustafer/DaisyDevLinks"
+        }
+    ],
+    "githubLink": "https://github.com/gustafer",
+    "instagramLink": "https://www.instagram.com/ustav.go/",
+    "discordLink": "https://discord.com/users/801073563368947742",
+    "linkedInLink": "https://www.linkedin.com/in/gustavo-luna-6a33942aa/",
+    "footerText": "Feito com ♥ , ustav"
+}
